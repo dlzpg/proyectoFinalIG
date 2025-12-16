@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/diego/Documents/Casual/codigos/C++/IG/sesion5/build",
+  "command": "C:\\Users\\diego\\Documents\\Casual\\programar\\MinGW\\MinGW\\bin\\g++.exe  @CMakeFiles/sesion5.dir/includes_CXX.rsp -g -o CMakeFiles\\sesion5.dir\\src\\Model.cpp.obj -c C:\\Users\\diego\\Documents\\Casual\\codigos\\C++\\IG\\sesion5\\src\\Model.cpp",
+  "file": "C:/Users/diego/Documents/Casual/codigos/C++/IG/sesion5/src/Model.cpp",
+  "output": "CMakeFiles/sesion5.dir/src/Model.cpp.obj"
+},
+{
+  "directory": "C:/Users/diego/Documents/Casual/codigos/C++/IG/sesion5/build",
+  "command": "C:\\Users\\diego\\Documents\\Casual\\programar\\MinGW\\MinGW\\bin\\g++.exe  @CMakeFiles/sesion5.dir/includes_CXX.rsp -g -o CMakeFiles\\sesion5.dir\\src\\Shaders.cpp.obj -c C:\\Users\\diego\\Documents\\Casual\\codigos\\C++\\IG\\sesion5\\src\\Shaders.cpp",
+  "file": "C:/Users/diego/Documents/Casual/codigos/C++/IG/sesion5/src/Shaders.cpp",
+  "output": "CMakeFiles/sesion5.dir/src/Shaders.cpp.obj"
+},
+{
+  "directory": "C:/Users/diego/Documents/Casual/codigos/C++/IG/sesion5/build",
+  "command": "C:\\Users\\diego\\Documents\\Casual\\programar\\MinGW\\MinGW\\bin\\g++.exe  @CMakeFiles/sesion5.dir/includes_CXX.rsp -g -o CMakeFiles\\sesion5.dir\\src\\main.cpp.obj -c C:\\Users\\diego\\Documents\\Casual\\codigos\\C++\\IG\\sesion5\\src\\main.cpp",
+  "file": "C:/Users/diego/Documents/Casual/codigos/C++/IG/sesion5/src/main.cpp",
+  "output": "CMakeFiles/sesion5.dir/src/main.cpp.obj"
+}
+]
